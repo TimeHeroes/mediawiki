@@ -1,6 +1,6 @@
 <?php
 
-$wgFooterIcons = array(
+$GLOBALS['wgFooterIcons'] = array(
   "poweredby" => array(
      "mediawiki" => array(
         "src" => null,
