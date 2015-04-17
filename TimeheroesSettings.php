@@ -13,8 +13,8 @@ $GLOBALS['wgFooterIcons'] = array(
         "src" => '/resources/assets/sponsors/eea.png',
         "url" => "http://eeagrants.org/",
         "alt" => "EEA grants",
-        "width" => "128"
-        "height" => "86"
+        "width" => "128",
+        "height" => "86",
      )
   )
 );
