@@ -14,5 +14,5 @@ $GLOBALS['wgFooterIcons'] = array(
         "url" => "http://eeagrants.org/",
         "alt" => "EEA grants",
      )
-  ),
+  )
 );
